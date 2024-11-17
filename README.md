@@ -1,4 +1,3 @@
-
 # Ex.No:5 Create Your Own Content Providers to get Contacts details.
 
 
@@ -28,12 +27,11 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ```
-/*
 Program to print the contact name and phone number using content providers.
-Developed by: Dharshan s
-Registeration Number :212222040036
-*/
+Developed by: dharshan s
+Registeration Number : 212222040036
 ```
+
 ## Mainactivity.java:
 ```
 package com.example.ex5;
@@ -146,15 +144,14 @@ public class MainActivity extends AppCompatActivity {
     </application>
 
 </manifest>![Screenshot 2024-09-17 194637](https://github.com/user-attachments/assets/3e17ead9-eb04-43f3-b6e5-10ddd1dae911)
-
 ```
 
+## OUTPUT
+
+![image](https://github.com/user-attachments/assets/88047f1d-9f18-45a6-8851-55bb12462734)
 
 
-## OUTPUT:
-
-![image](https://github.com/user-attachments/assets/fc6194d0-2547-4b2b-b77f-be7c2d0b2899)
-![image](https://github.com/user-attachments/assets/25f9c3b7-d55d-4138-8027-752d06507e34)
+![image](https://github.com/user-attachments/assets/a67f4ab4-cf98-4ea1-8ad8-dd9834b18e9a)
 
 
 
